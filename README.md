@@ -5,3 +5,5 @@ Author: Scott Zastrow<br/>
 Developed with Unity 2017.3.0f3<br/>
 <br/>
 NOTE: No Keyboard or Mouse Control. Controlled by Xbox Controller.
+<br/>
+My C# Scripts: https://github.com/scottzastrow/Third_Person_Controller/tree/master/Assets/Scripts
